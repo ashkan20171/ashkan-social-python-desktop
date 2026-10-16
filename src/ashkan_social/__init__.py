@@ -1,0 +1,1 @@
+"""Ashkan Social desktop application."""
